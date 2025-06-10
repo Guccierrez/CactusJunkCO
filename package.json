@@ -14,7 +14,7 @@
     "prepare": "husky install"
   },
   "engines": {
-    "node": "16.x"
+    "node": "18.x"
   },
   "dependencies": {
     "@headlessui/react": "^1.4.1",
